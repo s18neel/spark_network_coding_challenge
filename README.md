@@ -8,7 +8,6 @@
 
 
 - Run docker-compose
-bash
 ```
 docker-compose up --build
 ```
